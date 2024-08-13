@@ -11,9 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Cognitive Neuroscience, Basque Center on Cognition, Brain, and Languace(BCBL), Spain 2027 (expected)
+* Integrated BS-MS in Science with Biology major and Physics minor, IISER Kolkata, India (2022)
 
 Work experience
 ======
